@@ -1,0 +1,11 @@
+﻿pandas
+numpy
+scikit-learn
+SQLAlchemy
+psycopg2-binary
+matplotlib
+seaborn
+joblib
+requests
+jupyter
+nbconvert

@@ -1,0 +1,24 @@
+{
+  "melhor_modelo": "Regressao Logistica",
+  "metricas_teste": {
+    "accuracy": 0.8351,
+    "precision": 0.6386,
+    "recall": 0.9695,
+    "f1": 0.77,
+    "roc_auc": 0.9659
+  },
+  "limiar_surto_inc100k": 50.0,
+  "horizonte_semanas": 4,
+  "ano_teste": 2024,
+  "n_treino": 1788,
+  "n_teste": 576,
+  "prevalencia_treino": 0.1023,
+  "prevalencia_teste": 0.2847,
+  "top_features": {
+    "inc_delta1": 0.0512,
+    "inc_lag2": 0.0568,
+    "inc_media4": 0.0819,
+    "inc_t": 0.1343,
+    "inc_lag1": 0.1418
+  }
+}
